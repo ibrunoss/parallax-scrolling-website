@@ -63,6 +63,27 @@ section {
   height: 100vh;
 }
 
+section#hero .title {
+  position: absolute;
+  color: #094b65;
+  font-size: 10vw;
+  text-align: center;
+  line-height: 0.55em;
+  font-family: "Rancho", cursive;
+  transform: translateY(-50%);
+}
+
+section#hero .title span {
+  font-size: 0.2em;
+  font-weight: 400;
+  letter-spacing: 2px;
+  font-family: "Poppins", sans-serif;
+}
+
+section#hero .btn {
+  transform: translateY(100px);
+}
+
 .btn {
   display: inline-block;
   padding: 8px 30px;
