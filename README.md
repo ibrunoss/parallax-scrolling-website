@@ -1,8 +1,10 @@
 # <div align="center">Parallax Scrolling Website</div>
 
-<img src="./screenshots.gif" />
+<div align="center" >
+  <img src="./screenshots.gif" />
 
-<p align="center">The goal of this project is to develop a simple parallax scrolling effect with CSS & vanilla Javascript</p>
+  <p>The goal of this project is to develop a simple parallax scrolling effect with CSS & vanilla Javascript</p>
+</div>
 
 ## 🛠️ Technologies
 
